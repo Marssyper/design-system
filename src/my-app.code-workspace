@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "my-app",
+			"path": ".."
+		},
+		{
+			"name": "svg-icons.css",
+			"path": "../../Desktop/svg-icons.css"
+		}
+	],
+	"settings": {}
+}
