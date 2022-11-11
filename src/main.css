@@ -13,20 +13,23 @@ body {
   font-family: 'Pretendard Std Variable', sans-serif;
   font-weight: 400, 500, 600, 700;
   margin: 0;
-  text-align: center;
-  color: #293c4b;
 }
 
-h1 {
-  font-size: 30px;
-}
 
 img {
-  margin: 20px 0;
+  margin: 0px 0;
   max-width: 200px;
 }
 
 .heading {
   color: red;
+}
 
+.inputStyle {
+  min-width: 268px;
+  max-width: 268px;
+  padding: 0 0 0 12px;
+  border-radius: 5px;
+  border-style: solid;
+  border: 1px solid #CFD1D3;
 }
